@@ -1,0 +1,1 @@
+console.log("This is a test for my resume project! The color should be a custom blue hex code!")
