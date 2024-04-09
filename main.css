@@ -1,4 +1,18 @@
 body{
-  background-color: #152635
+  background-color: white
   ;
+}
+
+h1 {
+  color: goldenrod;
+  
+}
+
+h2{
+  color: goldenrod;
+
+}
+
+.rvrb{
+  background-color: #152635;
 }
